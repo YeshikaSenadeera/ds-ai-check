@@ -5,5 +5,7 @@
   "author": {
     "name": "Yeshika Senadeera"
   },
+  "license": "MIT",
+  "icon": "clipboard-check",
   "keywords": ["design-system", "figma", "ai-readiness", "audit", "tokens", "accessibility"]
 }
