@@ -6,6 +6,6 @@
     "name": "Yeshika Senadeera"
   },
   "license": "MIT",
-  "icon": "clipboard-check",
+  "icon": "icon.svg",
   "keywords": ["design-system", "figma", "ai-readiness", "audit", "tokens", "accessibility"]
 }
