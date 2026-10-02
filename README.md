@@ -4,7 +4,7 @@
 
 A Claude plugin that audits your Figma design system for AI-powered code generation readiness. Get a scored report with specific, actionable recommendations — then re-run after changes to track improvement.
 
-**Zero AI credits consumed per run** — all 28 checks are deterministic and rule-based.
+All 28 checks are deterministic and rule-based.
 
 ## What it checks
 
@@ -19,7 +19,7 @@ A Claude plugin that audits your Figma design system for AI-powered code generat
 
 ## How it works
 
-The plugin reads structured data from your Figma file using Figma MCP tools (`get_metadata`, `get_variable_defs`, `get_design_context`, `get_code_connect_map`) and runs pattern matching, counting, and structural analysis. No LLM inference is used for any check — every result is reproducible and deterministic.
+The plugin reads structured data from your Figma file using Figma MCP tools (`get_metadata`, `get_variable_defs`, `get_design_context`, `get_code_connect_map`) and runs pattern matching, counting, and structural analysis. Every check is rule-based — results are reproducible and deterministic.
 
 ## Install
 

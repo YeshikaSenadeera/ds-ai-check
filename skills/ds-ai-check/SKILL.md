@@ -4,8 +4,8 @@ description: >
   Run an AI readiness audit on a Figma design system. Use when the user asks to
   "check my design system", "audit my DS", "is my design system AI ready",
   "run ds-ai-check", "check AI readiness", or provides a Figma file URL
-  and wants to know how AI-ready it is. No LLM credits are consumed — all
-  checks are deterministic and rule-based.
+  and wants to know how AI-ready it is. All checks are deterministic
+  and rule-based.
 metadata:
   version: "0.1.0"
   author: "Yeshika Senadeera"
@@ -13,7 +13,7 @@ metadata:
 
 # DS AI Readiness Check — Figma Audit
 
-Run a deterministic, rule-based audit on a Figma design system file. Every check uses structured data from Figma MCP tools — no LLM inference, no API credits consumed per run.
+Run a deterministic, rule-based audit on a Figma design system file. Every check uses structured data from Figma MCP tools.
 
 ## Input
 

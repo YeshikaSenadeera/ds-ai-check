@@ -1,9 +1,8 @@
 {
   "name": "ai-ready-ds",
   "displayName": "AI Ready Design System",
-  "displayName": "AIReadyDS",
   "version": "0.1.0",
-  "description": "AI Readiness Check for Figma Design Systems. Deterministic, rule-based audit — no LLM credits consumed per run.",
+  "description": "AI Readiness Check for Figma Design Systems. Deterministic, rule-based audit across 28 checks with scored reporting.",
   "author": {
     "name": "Yeshika Senadeera"
   },
