@@ -1,4 +1,4 @@
-# DS AI Check
+# AI Ready Design System
 
 **AI Readiness Check for Figma Design Systems**
 
@@ -25,7 +25,7 @@ The plugin reads structured data from your Figma file using Figma MCP tools (`ge
 
 ### From the Claude Plugin Directory
 
-Search for **ds-ai-check** in the Discover tab under Customize > Plugins.
+Search for **AI Ready Design System** in the Discover tab under Customize > Plugins.
 
 ### Manual install
 
